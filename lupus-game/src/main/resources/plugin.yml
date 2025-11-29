@@ -1,0 +1,7 @@
+name: lupus-game
+version: '1.0-SNAPSHOT'
+main: eu.macsworks.lupusGame.LupusGamePlugin
+api-version: '1.21'
+authors: [Alice]
+description: Game plugin
+website: macsworks.eu
